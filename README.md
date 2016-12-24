@@ -4,7 +4,7 @@ Testing Microsoft Cognitive Services - Computer Vision API
 
 ## Requirements
 
-- Microsoft Cognitive Services [Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/Computer-Vision-API);
+- Microsoft Cognitive Services [Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/Computer-Vision-API) key;
 - Visual Studio 2017;
 - [.NET Core 1.1 SDK](https://go.microsoft.com/fwlink/?LinkID=835014).
 
